@@ -1,2 +1,25 @@
-# AIWeb-Template
-Template Repository for AI Specification Driven Website Development
+# AI 規格驅動網站開發
+
+## 學生資訊
+
+姓名：(請填寫真實姓名)
+
+學號：(開頭不含s)
+
+GitHub：(在GitHub的名稱)
+
+課程名稱：AI 規格驅動網站開發
+
+教師：高吉隆
+
+---
+
+## 每週進度
+
+| 星期 | 完成(V) | 日期 |
+|-------|-----------|------|
+| 第1週 | | |
+| 第2週 | | |
+| 第3週 | | |
+| 第4週 | | |
+| 第5週 | | |
