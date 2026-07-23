@@ -8,7 +8,11 @@
 
 GitHub：(在GitHub的名稱)
 
+Repository：AIWeb_(學號不含s)
+
 課程名稱：AI 規格驅動網站開發
+
+學期：105學年度第1學期
 
 教師：高吉隆
 
