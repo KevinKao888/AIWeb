@@ -1,15 +1,15 @@
-# Website Specification
+# 網站規格
 
-## Website Name
+## 網站名稱
 
-## Purpose
+## 用途
 
-## Target Audience
+## 目標受眾
 
-## Brand Style
+## 品牌風格
 
-## Brand Color
+## 品牌顏色
 
-## Features
+## 功能
 
-## Notes
+## 備註
