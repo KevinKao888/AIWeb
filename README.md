@@ -2,13 +2,13 @@
 
 ## 學生資訊
 
-姓名：(請填寫真實姓名)
-
 學號：(開頭不含s)
 
-GitHub：(在GitHub的名稱)
+姓名：(請填寫真實姓名)
 
-Repository：AIWeb_(學號不含s)
+GitHub名稱：(在GitHub的名稱)
+
+Repository儲存庫：AIWeb_(學號不含s)
 
 課程名稱：AI 規格驅動網站開發
 
