@@ -27,7 +27,7 @@ GitHub名稱：(在GitHub的名稱)
 | 1週 (09/17) | GitHub、Respository、Collaborators | 第1次 |
 | 2週 (09/24) | VSCode、Git Clone、Commit、Push | 第2次 |
 | 3週 (10/01) | Claude/ChatGPT/Gemini、Web Spec、FileSystem | 第3次 |
-| 4週 (10/08) | Section、GitHub Pages| 第4次 |
+| 4週 (10/08) | Nav、Section、GitHub Pages| 第4次 |
 | 5週 (10/15) | Components、報告說明 | 第5次 |
 | 6週 (11/05) | Demo 1 (1-15) | | 第1次 |
 | 7週 (11/12) | Demo 2 (16-30) | | 第1次 |
@@ -36,6 +36,8 @@ GitHub名稱：(在GitHub的名稱)
 
 ## 評分方式
 
+### 期中分數(45%)
+
 | 項目 | 比例x次數 | 合計 | 說明 |
 |---|:---:|:---:|---|
 | 平常(第1-5週) | 1% x 5 |  5% | 5次點名
@@ -43,6 +45,7 @@ GitHub名稱：(在GitHub的名稱)
 | 報告(第6-8週) | 20% x 1 | 20% | 期中報告
 | 期中成績 | | 45% |
 
+### 期末分數(55%)
 | 項目 | 比例x次數 | 合計 | 說明 |
 |---|:---:|:----:|---|
 | 平常(第9-13週) | 1% x 5|  5% | 5次點名
